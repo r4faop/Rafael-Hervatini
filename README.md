@@ -1,6 +1,6 @@
 Hello World
 -----------------------------------------------
--Science Computer Student at UNIFIL(2025-)📚
+- Science Computer Student at UNIFIL(2025-)📚
 Skills 
 - Logical Thinking💡
 - Web Developer💻
